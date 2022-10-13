@@ -38,3 +38,5 @@ public static void check(List<Integer> ls,int n){
     
 }
 }
+
+//problem solved//
